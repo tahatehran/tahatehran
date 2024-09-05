@@ -23,9 +23,9 @@
 
 Here are some of the projects I've worked on:
 
-- [Project One](https://github.com/username/project-one): A brief description of what this project does.
-- [Project Two](https://github.com/username/project-two): A brief description of what this project does.
-- [Project Three](https://github.com/username/project-three): A brief description of what this project does.
+- [Project One](https://github.com/tahatehran/project): A brief description of what this project does.
+- [Project Two](https://github.com/tahatehran/irankhodro2): A brief description of what this project does.
+- [Project Three](https://github.com/tahatehran/bug-free-disco): A brief description of what this project does.
 
 ## 📊 Activity Graph
 
