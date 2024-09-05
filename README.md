@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 
 ## 📊 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahatehran)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahatehran&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > **Note:** This graph provides an overview of my activity on GitHub. You can click on the project links to see more details.
 
